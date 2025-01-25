@@ -94,6 +94,10 @@ cd ai-story-generator
 
 - VR Faculty: Our heartfelt gratitude to the VR faculty for providing guidance, resources, and encouragement throughout the hackathon. Their mentorship has played a key role in shaping our approach and ensuring the success of this project.
 
-- Coordinators: A big thank you to the coordinators who organized and managed the hackathon, ensuring a smooth and efficient process. Their leadership and coordination were critical in making this event successful and impactful.
+- Coordinators: A big thank you to the coordinators who organized and managed the hac
+
+https://github.com/user-attachments/assets/ba3fb1ff-05b2-471a-b89c-e76ffcad9d85
+
+kathon, ensuring a smooth and efficient process. Their leadership and coordination were critical in making this event successful and impactful.
 
 - Together, their contributions helped in turning this vision into a reality, and we are truly grateful for their involvement in this hackathon.
