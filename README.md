@@ -88,3 +88,12 @@ cd ai-story-generator
 ```
 ### Challenges and Solutions 
 - We have a major issue with response time of the model, later we some how minimize the response time
+### Credits and References 
+
+- Team Codgnan: Special thanks to the talented and dedicated team members of Codgnan for their continuous support, collaboration, and technical expertise. Their commitment to innovation and problem-solving was instrumental in bringing this project to life.
+
+- VR Faculty: Our heartfelt gratitude to the VR faculty for providing guidance, resources, and encouragement throughout the hackathon. Their mentorship has played a key role in shaping our approach and ensuring the success of this project.
+
+- Coordinators: A big thank you to the coordinators who organized and managed the hackathon, ensuring a smooth and efficient process. Their leadership and coordination were critical in making this event successful and impactful.
+
+- Together, their contributions helped in turning this vision into a reality, and we are truly grateful for their involvement in this hackathon.
