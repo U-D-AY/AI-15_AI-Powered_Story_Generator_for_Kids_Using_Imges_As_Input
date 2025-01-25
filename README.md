@@ -69,6 +69,16 @@ Parents, educators, caregivers, and developers of educational tools.
 ---
 
 ## Installation and Setup Instructions
+ai-story-generator
+├── static\
+│       ├── script.js
+│       ├── style.css
+│── templetes\
+│       │───hello.html
+├── application.py
+├── requirements.txt        # List of Python dependencies
+├── README.md               # Documentation for the project
+├── .gitignore   
 
 ### Step 1: Clone the Repository
 
@@ -76,3 +86,5 @@ Parents, educators, caregivers, and developers of educational tools.
 git clone https://github.com/U-D-AY/AI-15_AI-Powered_Story_Generator_for_Kids_Using_Imges_As_Input
 cd ai-story-generator
 ```
+### Challenges and Solutions 
+- We have a major issue with response time of the model, later we some how minimize the response time
